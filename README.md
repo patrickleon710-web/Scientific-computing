@@ -3,3 +3,5 @@
 * *Control_structures.py* contains various control structures used in python. To run the script type **'py control_structures.py'** (on windows) in the command line. I've learnt about the different control structures in python such as loops and if-else statements and their applications.
 
 * *Modular_funtions.py* contains various datatypes used in python. To run the script type **'py modular_functions.py'** (on windows) in the command line. I've learnt about using functions to write reusable bits of code, use of parameters and arguments.
+
+* *Modular_funtions.py* contains various numpy package used in python. To run the script type **'py numpy_basics.py'** (on windows) in the command line. I've learnt part of what numpy can be used for.
